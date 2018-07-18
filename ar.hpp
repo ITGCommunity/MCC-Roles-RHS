@@ -124,7 +124,7 @@ class ar : rifleman
 		};
 
 		items1[]={{0,""},{6,"Binocular", {}},{20,"Rangefinder", {}}};
-		items2[]={{0,"SmokeShell", 2},{3,"MiniGrenade", 2},{7,"HandGrenade", 2},{11,"SmokeShellRed", 2},{13,"SmokeShellGreen", 2},{21,"Chemlight_green", 2},{22,"Chemlight_red", 2},{23,"Chemlight_yellow", 2},{25,"B_IR_Grenade", 2}};
+		items2[]={{0,"ACE_epinephrine", 1},{0,"SmokeShell", 2},{3,"MiniGrenade", 2},{7,"HandGrenade", 2},{11,"SmokeShellRed", 2},{13,"SmokeShellGreen", 2},{21,"Chemlight_green", 2},{22,"Chemlight_red", 2},{23,"Chemlight_yellow", 2},{25,"B_IR_Grenade", 2}};
 		items3[]={{0,"ACE_morphine", 2},{0,"ACE_epinephrine", 1},{3,"SmokeShell", 2},{7,"HandGrenade", 2},{11,"SmokeShellRed", 2},{13,"SmokeShellGreen", 2},{21,"Chemlight_green", 2},{22,"Chemlight_red", 2},{23,"Chemlight_yellow", 2},{25,"B_IR_Grenade", 2}};
 		generalItems[]= {{0,"ItemMap",1},{0,"ItemCompass",1},{0,"ItemWatch",1},{0,"tf_anprc152",1},{0,"ACE_packingBandage",5},{0,"ACE_elasticBandage",5},{0,"ACE_EarPlugs",1}};
 		nightVision[]= {{0,""},{40,"NVGoggles"}};
@@ -205,7 +205,7 @@ class ar : rifleman
 		};
 
 		items1[]={{0,""},{6,"Binocular", {}},{20,"Rangefinder", {}}};
-		items2[]={{0,"rhs_mag_rdg2_white", 2},{2,"rhs_mag_rdg2_black", 2},{3,"rhs_mag_rgn", 2},{7,"rhs_mag_rgo", 2},{11,"SmokeShellRed", 2},{13,"SmokeShellGreen", 2},{21,"Chemlight_green", 2},{22,"Chemlight_red", 2},{23,"Chemlight_yellow", 2},{25,"O_IR_Grenade", 2}};
+		items2[]={{0,"ACE_epinephrine", 1},{0,"rhs_mag_rdg2_white", 2},{2,"rhs_mag_rdg2_black", 2},{3,"rhs_mag_rgn", 2},{7,"rhs_mag_rgo", 2},{11,"SmokeShellRed", 2},{13,"SmokeShellGreen", 2},{21,"Chemlight_green", 2},{22,"Chemlight_red", 2},{23,"Chemlight_yellow", 2},{25,"O_IR_Grenade", 2}};
 		items3[]={{0,"ACE_morphine", 2},{0,"ACE_epinephrine", 1},{2,"rhs_mag_rdg2_black", 2},{3,"rhs_mag_rgn", 2},{7,"rhs_mag_rgo", 2},{11,"SmokeShellRed", 2},{13,"SmokeShellGreen", 2},{21,"Chemlight_green", 2},{22,"Chemlight_red", 2},{23,"Chemlight_yellow", 2},{25,"O_IR_Grenade", 2}};
 		generalItems[]= {{0,"ItemMap",1},{0,"ItemCompass",1},{0,"tf_microdagr",1},{0,"tf_fadak",1},{0,"ACE_packingBandage",5},{0,"ACE_elasticBandage",5},{0,"ACE_EarPlugs",1}};
 		nightVision[]= {{0,""},{40,"NVGoggles"}};
